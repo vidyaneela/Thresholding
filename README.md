@@ -62,25 +62,23 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/vidyaneela/Thresholding/assets/94169318/f48817c8-7598-43af-9237-a0a7623f8188)
+
+![image](https://github.com/vidyaneela/Thresholding/assets/94169318/1fe47927-8647-4259-bf9e-06eccad98251)
+
+![image](https://github.com/vidyaneela/Thresholding/assets/94169318/7c1d780b-de51-4307-aee7-dbe424f9c89b)
+
 
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/vidyaneela/Thresholding/assets/94169318/04306aa8-df2e-402c-be6a-66f8d4f82a18)
+
+![image](https://github.com/vidyaneela/Thresholding/assets/94169318/c2696ed9-5765-449c-b69b-8d73f52ef1a8)
+
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/vidyaneela/Thresholding/assets/94169318/22ad5da3-df1d-430a-ad02-2a725c986020)
 
 ### Optimum Global Thesholding using Otsu's Method
 <br>
